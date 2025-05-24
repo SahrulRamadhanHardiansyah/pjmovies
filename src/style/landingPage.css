@@ -1,0 +1,46 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/image/bg/cinema.jpg");
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  /* background: ; */
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 3px;
+}
+
+.trending {
+  height: auto;
+  background: url("../assets/image/bg/bg3.jpg");
+  background-size: cover;
+}
+
+.horror {
+  height: auto;
+  background: url("../assets/image/bg/bg5.jpg");
+  background-size: cover;
+}
+
+.moviesImage {
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+}
+
+.moviesWrapper {
+}
+
+.images {
+  height: 500px;
+}
